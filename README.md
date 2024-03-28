@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [E-commerce application](https://github.com/Resolute07/FoodDeliveryApp)
 
-- 🔭 Intern @The Anantkaal
+- 🔭 Freelancer
 
-- 🌱 I’m currently learning **Flutter, Dart , DSA , JAVASCRIPT**
+- 🌱 I’m currently learning **Flutter, Dart , DSA , Django**
 
 - 💬 Ask me about **Flutter , Dart**
 
